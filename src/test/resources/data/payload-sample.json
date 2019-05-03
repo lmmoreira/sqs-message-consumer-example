@@ -1,0 +1,111 @@
+{
+  "batteryStatus": 66,
+  "currentOrders": [
+    {
+      "externalId": "434036165",
+      "localizer": "74996175",
+      "orderId": 8622249,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434046839",
+      "localizer": "90206744",
+      "orderId": 8622255,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434035959",
+      "localizer": "11326980",
+      "orderId": 8622729,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434053709",
+      "localizer": "64498108",
+      "orderId": 8623509,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434053736",
+      "localizer": "15397445",
+      "orderId": 8623517,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    }
+  ],
+  "eventDate": "2019-02-28T10:59:18.081-03:00",
+  "latitude": -23.23754159733653,
+  "legCorrectionFactor": 1.5864031151428366,
+  "legType": "DESTINATION",
+  "longitude": -45.90458773076534,
+  "orders": [
+    {
+      "externalId": "434036165",
+      "localizer": "74996175",
+      "orderId": 8622249,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434046839",
+      "localizer": "90206744",
+      "orderId": 8622255,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434035959",
+      "localizer": "11326980",
+      "orderId": 8622729,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434053709",
+      "localizer": "64498108",
+      "orderId": 8623509,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    },
+    {
+      "externalId": "434053736",
+      "localizer": "15397445",
+      "orderId": 8623517,
+      "paymentType": "MONEY",
+      "phone": "0800 608 1015",
+      "price": 2570,
+      "remainingValueToPay": 2570
+    }
+  ],
+  "routeId": 10098025,
+  "serviceLatitude": -23.204267501831055,
+  "serviceLongitude": -45.85906982421875,
+  "speed": 10,
+  "tenant": "BR",
+  "trackDate": "2019-02-28T10:59:14.001-03:00",
+  "workerId": 131275,
+  "workerName": "Peterson Deodato Padua Mendes De Souza",
+  "workerPhone": "+5512997799198"
+}
