@@ -59,3 +59,5 @@ Finally, execute the project with maven
 ```
 mvn spring-boot:run -Dspring.profiles.active=localstack   
 ```# sqs-message-consumer-example
+=======
+# sqs-message-consumer-example
